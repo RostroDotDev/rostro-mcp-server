@@ -4,6 +4,8 @@ Turn any language model into a multimodal powerhouse that can generate images, m
 
 ## Quick Setup
 
+You will need a [Rostro account](https://rostro.dev/login/sign_up) for OAuth discovery and authentication in your client of choice.
+
 **MCP Server URL:** `https://proto.rostro.dev/mcp`
 
 ## Quick Install Links
